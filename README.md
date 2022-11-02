@@ -14,6 +14,7 @@
 
 ### Задание 2
 ```
+json
 stages:
   - test
   - build
