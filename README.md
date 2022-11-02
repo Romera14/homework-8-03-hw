@@ -13,8 +13,26 @@
 ---
 
 ### Задание 2
+```
+stages:
+  - test
+  - build
+  
+test:
+  stage: test
+  image: golang:1.17
+  script: 
+   - go mod init example.com/m
+   - go test .
 
-![Название скриншота 2](ссылка на скриншот 2)`
+build:
+  stage: build
+  image: docker:latest
+  script:
+   - docker build .
+```
+
+![Скриншоты сборок](https://github.com/Romera14/homework-8-03-hw/blob/main/Снимок%20экрана%202022-10-31%20в%2022.10.16.png)`
 
 
 ---
