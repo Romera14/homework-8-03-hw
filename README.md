@@ -5,12 +5,9 @@
 
 ## Задание 1
 
-```
 
-```
 
-`При необходимости прикрепитe сюда скриншоты
-![настройки gitlab-runner](https://github.com/Romera14/homework-8-03-hw/blob/main/Снимок%20экрана%202022-10-30%20в%2017.14.02.png)`
+![настройки gitlab-runner](https://github.com/Romera14/homework-8-03-hw/blob/main/Снимок%20экрана%202022-10-30%20в%2017.14.02.png)
 
 
 ---
