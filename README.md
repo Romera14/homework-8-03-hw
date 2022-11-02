@@ -14,7 +14,7 @@
 
 ### Задание 2
 ```
-json
+yaml
 stages:
   - test
   - build
